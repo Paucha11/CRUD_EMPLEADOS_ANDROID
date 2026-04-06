@@ -36,7 +36,7 @@ npm start
 
 4. Abre el proyecto en:
 
-- Expo Go en tu celular
+- Expo Go en tu celular o tablet 
 - un emulador Android
 - o navegador web para revisar la interfaz
 
